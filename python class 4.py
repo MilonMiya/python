@@ -1,4 +1,4 @@
-"""print("My name is: Milon Miya","i am\na boy")
+print("My name is: Milon Miya","i am\na boy")
 name="Milon Miya"
 print("My name is:",name)
 print(type(name))
@@ -9,7 +9,7 @@ print("Your name is:", name)
 a=20
 b=10
 sum=a+b
-print (sum)"""
+print (sum)
 
 print("Hello World")
 name="Maruf Miya"
